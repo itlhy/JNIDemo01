@@ -1,3 +1,4 @@
+#觉得不错别忘了点个星星哈
 1. 安装NDK
 
     在工具栏点击File->Settings->Appearance & Behavior->System Settings->Android SDK->SDK Tools选中LLDB和NDK，点击确认，软件会自动安装NDK。
